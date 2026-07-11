@@ -22,7 +22,8 @@ Buka file APK di HP Android
 Izinkan "Install from unknown sources" jika diminta
 Buka aplikasinya
 
-<img width="717" height="1600" alt="pc2" src="https://github.com/user-attachments/assets/23435113-5b34-4a39-b211-2af124b69e66" />
-<img width="717" height="1600" alt="pc1" src="https://github.com/user-attachments/assets/382f760f-d8ee-492d-8c70-ade1c6f686ab" />
-<img width="960" height="540" alt="Screenshot 2026-07-10 184313" src="https://github.com/user-attachments/assets/6fa2cc7e-9e34-40f2-b6e0-49ee33195775" />
+<img width="717" height="1600" alt="b2" src="https://github.com/user-attachments/assets/72100946-5b0b-4bfc-9d81-39f4ea91889f" />
+<img width="717" height="1600" alt="b1" src="https://github.com/user-attachments/assets/3043ccb6-2903-43aa-8c99-68683f1f22df" />
+<img width="600" height="596" alt="b3" src="https://github.com/user-attachments/assets/03b54474-468c-44bc-96cf-7d93e5d594c9" />
+
 
